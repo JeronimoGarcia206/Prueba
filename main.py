@@ -1,6 +1,5 @@
-print("Hola mundo desde la rama auxiliar")
+print("Hola mundo")
 
-numero = int(input("Ingrese su número: "))
-numero2 = int(input("ingrese su segundo numero: "))
+nombre = input("hola bienvenido ingresa tu nombre: ")
 
-print(f"el resultado es {numero + numero2}")
+print (f"Hola {nombre} bienvenido")
